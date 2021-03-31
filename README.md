@@ -1,4 +1,4 @@
-# ecommerce-website
+# Premium Gold Co. Ecommerce-Website
 Full eCommerce Website with Admin Panel Built with PHP, MySql & JavaScript
 
 
