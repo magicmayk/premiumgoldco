@@ -1,5 +1,5 @@
 # ecommerce-website
-Full eCommerce Website with Admin Panel Built with PHP & MySql
+Full eCommerce Website with Admin Panel Built with PHP, MySql & JavaScript
 
 ## Getting Started
 
@@ -16,10 +16,13 @@ Database Configuration
 - Import database : /ecom_store.sql
 - Open Your browser put inside URL: "http://localhost/ecommerce-website/”
 - To Login as admin : ”http://localhost/ecommerce-website/admin_area”
+
+admin credentials: pgc@admin.com
+admin password: test1234
 ```
 
 
 ## Authors & Licence
 
-* **Yasser Dalouzi** - *eCommerce Website* - (https://github.com/yvsser1)
-* This project is open-source feel free to use it as you wish
+* **DEV: John Michael D. de Jesus** - *Premium Gold Co. eCommerce Website* - (https://github.com/magicmayk)
+* This project is for completion of Course ICS26013 (Software Engineering 2)
